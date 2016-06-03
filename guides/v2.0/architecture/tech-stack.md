@@ -21,7 +21,7 @@ Magento’s highly modular structure includes the following open-source technolo
 
 <b>PHP</b>
 
-*  5.5, 5.6x, 7.0
+*  5.5, 5.6x, 7.0.x
 
 <b>Database</b>
 
